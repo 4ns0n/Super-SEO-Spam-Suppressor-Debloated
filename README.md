@@ -3,7 +3,7 @@
 An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: junk news, content farms, scams, impersonations, fads and bubbles (Web3 or genAI), and all other kinds of useless wasteful garbage.
 It is best used with uBlacklist.
 
-This is a fork of the Original Super SEO Spam Suppressor that removes legitimate domains from the blocklist that harm it's usability.
+This is a fork of the wonderful [Super SEO Spam Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) that removes legitimate domains from the blocklist that harm it's usability.
 
 > Our website is now optimized to supply content to Google, not build an audience of its own.  
 > [Mia Sato, "The Perfect Webpage", *The Verge*.](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
