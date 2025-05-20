@@ -5,7 +5,7 @@ name: Update blocklists
 #    paths:
 #      - 'sources/**.txt'
 #      - '!sources/imports/**'
-  workflow_dispatch:
+#  workflow_dispatch:
 
 jobs:
   update:
