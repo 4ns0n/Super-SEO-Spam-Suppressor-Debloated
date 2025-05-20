@@ -1,10 +1,10 @@
 name: Update blocklists
 
-on:
-  push:
-    paths:
-      - 'sources/**.txt'
-      - '!sources/imports/**'
+#on:
+#  push:
+#    paths:
+#      - 'sources/**.txt'
+#      - '!sources/imports/**'
   workflow_dispatch:
 
 jobs:
