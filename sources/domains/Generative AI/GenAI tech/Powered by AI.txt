@@ -1,7 +1,2 @@
 # Presentations
 gamma.app
-
-# Mail
-proton.me # https://alextheward.com/posts/proton-wtf/
-protonmail.com
-pm.me
