@@ -16,49 +16,49 @@ Plus the latest trend of so-called "artificial intelligence" generative models p
 This list is, as any good adblocking tool is, an attempt to escape this neverending capitalist coercition and attention theft.
 All of the tech giants play this game so consider also using a social media blocklist.
 
-This blocklist is left in the [public domain (Do What The Fuck You Want To Public License)](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/blob/main/LICENSE).
+This blocklist is left in the [public domain (Do What The Fuck You Want To Public License)](https://github.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/blob/main/LICENSE).
 
 ## Browser extensions
 
 ### uBlacklist syntax
 
-[Blocklist in uBlacklist format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
+[Blocklist in uBlacklist format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
 
-[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
+[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor%20Debloated&url=https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/ublacklist.txt)  (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
 
 ### AdBlock Plus syntax
 
-[Blocklist in AdBlock format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
+[Blocklist in AdBlock format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
 
-[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/adblock.txt&title=Super%20SEO%20Spam%20Suppressor)
+[Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/adblock.txt&title=Super%20SEO%20Spam%20Suppressor%20Debloated)
 
 ## DNS blockers
 
 ### Hosts format
 
-[Blocklist in Hosts format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or [Pi-hole](https://pi-hole.net/).
+[Blocklist in Hosts format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or [Pi-hole](https://pi-hole.net/).
 
-[IPV6 version](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/hosts.txt.ipv6).
+[IPV6 version](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/hosts.txt.ipv6).
 
 **Known issue:** [Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset.](https://bugzilla.mozilla.org/show_bug.cgi?id=1453207)
 
 ### Dnsmasq format
 
-[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
 
 ### pdnsd format
 
-[Blocklist in pdnsd format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/pdnsd.txt) to use with the [pdnsd](https://wiki.archlinux.org/title/Pdnsd) caching DNS proxy server software.
+[Blocklist in pdnsd format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/pdnsd.txt) to use with the [pdnsd](https://wiki.archlinux.org/title/Pdnsd) caching DNS proxy server software.
 
 ## Fediverse formats
 
 ### Mastodon
 
-[Blocklist in Mastodon format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/mastodon.csv) to use with [Mastodon](https://joinmastodon.org/) and other federated services. It will defederate from blocked instances.
+[Blocklist in Mastodon format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/mastodon.csv) to use with [Mastodon](https://joinmastodon.org/) and other federated services. It will defederate from blocked instances.
 
 ### Fediblockhole
 
-[Blocklist in FediBlockHole format](https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/fediblockhole.csv) to use with the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) tool for Mastodon. It will defederate from blocked instances.
+[Blocklist in FediBlockHole format](https://raw.githubusercontent.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/main/fediblockhole.csv) to use with the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) tool for Mastodon. It will defederate from blocked instances.
 
 ## How to contribute
 
@@ -80,7 +80,7 @@ External lists can be imported by adding them to the `sources/imports/importlist
 
 ### How to contribute (easy mode)
 
-If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor/issues) with the URLs you would like to add to the list (or remove, false positives happen!), grouping them by language and categories if possible. We'll check and add them shortly.
+If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/4ns0n/Super-SEO-Spam-Suppressor-Debloated/issues) with the URLs you would like to add to the list (or remove, false positives happen!), grouping them by language and categories if possible. We'll check and add them shortly.
 
 ### Report malicious websites
 
@@ -146,8 +146,7 @@ This list is not blocking its search results, which consistently appear on top o
 
 ## Recommended lists and projects
 
-- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist with a lot of entries that I'm not yet able to import in SSSS.
-- [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest): I hate Pinterest.
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): a *very* exhaustive AI blocklist.
 - [A dove is dumb](https://a.dove.isdumb.one/list.txt): Adobe hates you.
 - [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): Consider blocking social media and big tech corporations.
 - [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard): Alerts on risky sites if they're not blocked already.
